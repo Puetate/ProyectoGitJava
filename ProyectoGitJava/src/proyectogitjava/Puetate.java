@@ -12,6 +12,6 @@ package proyectogitjava;
  */
 public class Puetate {
     
-    // La nueva clase Puetate
+    // La nueva clase Puetate Pablo
     
 }
