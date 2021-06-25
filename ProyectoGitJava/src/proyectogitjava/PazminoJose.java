@@ -9,6 +9,6 @@ package proyectogitjava;
  *
  * @author José Pazmiño
  */
-public class PazmiñoJose {
-    //hola hhhhhh
+public class PazminoJose {
+    
 }
